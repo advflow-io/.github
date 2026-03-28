@@ -30,7 +30,11 @@ Plugin para Claude Code especializado em desenvolvimento fullstack TOTVS Protheu
 | **Fullstack** | Angular PO UI frontend + TLPP REST backend |
 
 ```bash
-claude plugin add advflow-io/advflow-specialist
+# 1. Adicionar o marketplace
+claude plugin marketplace add advflow-io/advflow-specialist
+
+# 2. Instalar o plugin
+claude plugin install advflow-specialist
 ```
 
 ### Cursos Protheus + IA *(Em breve | Coming soon)*
